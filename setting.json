@@ -1,8 +1,8 @@
 {
-  "name-web":"OTOMOTIF",
-  "author":"OTOMOTIF",
+  "name-web":"WALLPAPER",
+  "author":"WALLPAPER",
   "remove-comment-html":true,
-  "target":"https://stackoverflow.com",
+  "target":"https://www.wallpaperbetter.com",
   "map-permalink":[
     "cars",
     "content",
@@ -26,7 +26,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"stackoverflow.com",
+      "target":"www.wallpaperbetter.com",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
